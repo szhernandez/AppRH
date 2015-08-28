@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ses",
+				"session_register"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"all",
+				"all2"
+			],
+			[
+				"f",
+				"fila"
+			],
+			[
+				"d",
+				"dwes"
+			],
+			[
+				"c",
+				"contrasena"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "principal.php",
+			"settings":
+			{
+				"buffer_size": 116,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"Snippet: a",
+				"Snippet: Long Tag"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/AppRH/control.php",
+		"/C/xampp/htdocs/AppRH/css/estiloslogin.css",
+		"/C/xampp/htdocs/AppRH/seguridad.php",
+		"/C/xampp/htdocs/AppRH/index.html",
+		"/C/xampp/htdocs/AppRH/principal.php",
+		"/C/xampp/htdocs/AppWeb/procesado.php",
+		"/C/xampp/htdocs/AppRH/newindex.html",
+		"/C/xampp/htdocs/AppWeb/CrearBaseDeDatos.php",
+		"/C/Users/Windows/Dropbox/App Recursos Humanos/Aplicacion/Base de datos/RH270815.sql",
+		"/C/xampp/htdocs/AppRH/css/estilos.css",
+		"/C/xampp/htdocs/AppWeb/seguridad.php",
+		"/C/xampp/htdocs/AppWeb/entrada.php",
+		"/C/xampp/htdocs/AppWeb/control.php",
+		"/C/Users/Windows/Desktop/Sergio Zair Hernandez Gomez/index.html",
+		"/C/Users/Windows/Desktop/Pagina personal/recursos/f_utilidades.html",
+		"/C/xampp/htdocs/AppWeb/index.html",
+		"/F/.Trashes/ITCA/AppWeb/seguridad.php",
+		"/F/.Trashes/ITCA/AppWeb/control.php",
+		"/F/.Trashes/ITCA/AppWeb/index.html",
+		"/F/.Trashes/ITCA/AppWeb/entrada.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Windows/Downloads/oscommerce_español/oscommerce-2.3.4/catalog/index.php",
+		"/C/Users/Windows/Desktop/Videos Asamblea regional/download.php.html",
+		"/C/Users/Windows/Downloads/Nero 9/0002222244555581-by-maria/Help.html",
+		"/C/Users/Windows/Dropbox/Documentos o pbs/ESCUELA/SEMESTRE IX/Curso Residencia Profesional por Competencias_GRM/Ejemplo de Anteproyecto/Ejemplo de Anteproyecto de Residencia_Ago-Dic_2015mod.pdf",
+		"/C/Users/Windows/Dropbox/Documentos o pbs/ESCUELA/Semestre VIII/TALLER DE INV. II/UNIDAD II/PROYECTO RH.pdf",
+		"/J/784/mwlyrff.js",
+		"/C/Users/Windows/Downloads/oscommerce_español/oscommerce-2.3.4/catalog/install/index.php",
+		"/C/Users/Windows/Dropbox/Documentos o pbs/ESCUELA/Semestre VIII/TALLER DE INV. II/UNIDAD II/git pdf/PROYECTO RH.pdf",
+		"/C/Users/Windows/Dropbox/Documentos o pbs/ESCUELA/Semestre VIII/TALLER DE INV. II/UNIDAD II/PROYECTO RH FINAL.pdf",
+		"/C/xampp/htdocs/red/engine/lib/sessions.php",
+		"/C/Users/Windows/Desktop/Proyecto de investigacion cesar/-protocolo-de-investigacin/content/data/content.xml",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_AndroidSplashScreenExample.zip/AndroidSplashScreenExample/app/src/main/java/com/coderefer/androidsplashscreenexample/SplashScreen.java",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_AndroidSplashScreenExample.zip/AndroidSplashScreenExample/app/src/main/AndroidManifest.xml",
+		"/C/xampp/htdocs/red/engine/lib/friends.php",
+		"/C/xampp/htdocs/red/actions/friends/remove.php",
+		"/C/xampp/htdocs/red/engine/lib/group.php",
+		"/C/Users/Windows/Desktop/Localizacion/app/src/main/res/layout/activity_main.xml",
+		"/C/xampp/htdocs/red/actions/friends/add.php",
+		"/C/xampp/htdocs/red/engine/lib/user_settings.php",
+		"/C/xampp/htdocs/red/engine/lib/users.php",
+		"/C/xampp/htdocs/red/package.json",
+		"/C/xampp/htdocs/red/index.php",
+		"/C/xampp/htdocs/red/engine/start.php",
+		"/C/xampp/htdocs/red/engine/load.php",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_MySchedule-master.zip/MySchedule-master/app/src/main/res/layout/activity_new_appointment.xml",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_MySchedule-master.zip/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/NewAppointmentActivity.java",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_MySchedule-master.zip/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/HomeActivity.java",
+		"/C/Users/Windows/Documents/GitHub/android-advancedrecyclerview-master/android-advancedrecyclerview-master/example/src/main/java/com/h6ah4i/android/example/advrecyclerview/launcher/MainActivity.java",
+		"/C/Users/Windows/Desktop/Localizacion/app/src/main/java/com/example/macedonio/localizacion/MainActivity.java",
+		"/C/Users/Windows/Desktop/Localizacion/app/src/main/AndroidManifest.xml",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/HomeActivity.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/NewAppointmentActivity.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/provider/AppointmentProvider.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/model/AppointmentViewHolder.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/model/Appointment.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/App.java",
+		"/C/Users/Windows/AndroidStudioProjects/Mi_BD/app/src/main/java/com/example/windows8/mi_bd/MainActivity.java",
+		"/C/Users/Windows/AndroidStudioProjects/Mi_BD/app/src/main/AndroidManifest.xml",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/adapters/RecyclerViewCursorAdapter.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/adapters/AppointmentCursorAdapter.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/LoginActivity.java",
+		"/C/Users/Windows/Documents/GitHub/RecyclerView/Application/src/main/java/com/example/android/recyclerview/CustomAdapter.java",
+		"/C/Users/Windows/Documents/GitHub/RecyclerView/Application/src/main/java/com/example/android/recyclerview/MainActivity.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/service/NotificationService.java",
+		"/C/Users/Windows/Documents/GitHub/MySchedule-master/MySchedule-master/app/src/main/java/com/ediposouza/myschedule/db/AppointmentDbHelper.java",
+		"/C/Users/Windows/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/windows/usandomapas/NavigationDrawerFragment.java",
+		"/C/Users/Windows/Downloads/Videoteca _ Mark Sanderson  Estemos dispuestos a abrir nuestra mano (Prov. 3 27) _ Adoración matutina_files/jwplayer.js",
+		"/C/xampp/htdocs/Tienda/upload/admin/model/payment/pp_express.php",
+		"/C/Users/Windows/Documents/GitHub/MaterialDesign/usandomapas/.idea/libraries/play_services_drive_7_0_0.xml",
+		"/C/Users/Windows/Documents/GitHub/MaterialDesign/MaterialDesign/app/src/main/res/values/colors.xml",
+		"/C/Users/Windows/Documents/GitHub/MaterialDesign/MaterialDesign/app/src/main/res/values/styles.xml",
+		"/C/Users/Windows/Documents/GitHub/usandoarchivos/app/src/main/res/values/colors.xml",
+		"/C/Users/Windows/Documents/GitHub/usandoarchivos/app/src/main/java/com/example/windows/usandoarchivos/MainActivity.java",
+		"/C/Users/Windows/AndroidStudioProjects/JSON-PARSING/app/src/main/java/com/example/windows/json_parsing/MainActivity.java",
+		"/C/xampp/htdocs/Tienda/upload/admin/language/spanish/shipping/auspost.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/index.php",
+		"/C/Users/Windows/Documents/GitHub/MaterialDesign/usandomapas/.idea/libraries/support_v4_22_0_0.xml",
+		"/C/xampp/htdocs/Tienda/upload/admin/model/payment/realex_remote.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/model/payment/pp_pro_iframe.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/controller/user/api.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/controller/payment/worldpay.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/controller/payment/pp_standard.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/model/payment/securetrading_pp.php",
+		"/C/Users/Windows/.android/debug.keystore",
+		"/C/Users/Windows/Downloads/Videoteca _ Mark Sanderson  Estemos dispuestos a abrir nuestra mano (Prov. 3 27) _ Adoración matutina_files/main.js",
+		"/C/xampp/htdocs/Tienda/upload/admin/config-dist.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/language/english/english.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/language/spanish/default.php",
+		"/C/xampp/htdocs/Tienda/upload/admin/config.php",
+		"/C/xampp/htdocs/app/json.php",
+		"/C/xampp/htdocs/app/materias.json",
+		"/C/xampp/htdocs/app/xml.php",
+		"/C/xampp/htdocs/app/materias.xml",
+		"/C/Users/Windows/Documents/GitHub/AndroidXMLParsing/src/com/androidhive/xmlparsing/XMLParser.java",
+		"/C/Users/Windows/Documents/GitHub/AndroidXMLParsing/res/layout/list_item.xml",
+		"/C/Users/Windows/Documents/GitHub/AndroidXMLParsing/res/layout/single_list_item.xml",
+		"/C/Users/Windows/Documents/GitHub/AndroidJSONParsing/AndroidJSONParsing/src/info/androidhive/jsonparsing/MainActivity.java",
+		"/C/Users/Windows/Downloads/Sergio Zair Hernandez Gomez/index.html",
+		"/C/Users/Windows/Downloads/La Serie Divergente Insurgente.2015.DVDRip.Español/La Serie Divergente Insurgente.2015.DVDRip.Español/La Serie Divergente Insurgente.2015.DVDRip.Español.rar",
+		"/C/Users/Windows/Documents/GitHub/AndroidXMLParsing/res/layout/main.xml",
+		"/C/Users/Windows/Downloads/WebServiceJSON/src/WebServiceExampleJSON.java",
+		"/C/Users/Windows/Downloads/WebServiceJSON/res/layout/activity_main.xml",
+		"/C/Users/Windows/Downloads/WebServiceJSON/src/Personas.java",
+		"/C/Users/Windows/Downloads/WebServiceJSON/WebServiceJSON/src/Personas.java",
+		"/C/Users/Windows/Downloads/clientes.json",
+		"/C/Users/Windows/Downloads/crearleerJSON.php",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_guia1completo-master.zip/guia1completo-master/src/com/android/mdw/demo/Main.java",
+		"/C/Users/Windows/Downloads/clientes(1).json",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_guia1completo-master.zip/guia1completo-master/src/com/android/mdw/demo/XMLParser.java",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_guia1base-master.zip/guia1base-master/src/com/android/mdw/demo/XMLParser.java",
+		"/C/Users/Windows/Downloads/guia1completo-master/guia1completo-master/src/com/android/mdw/demo/Main.java",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_Android---lector-de-noticias-master.zip/Android---lector-de-noticias-master/src/android/cibeles/net/lector.java",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_guia1base-master.zip/guia1base-master/src/com/android/mdw/demo/Main.java",
+		"/C/Users/Windows/Downloads/guia5base-master/res/layout/main.xml",
+		"/C/Users/Windows/Downloads/guia1completo-master/guia1completo-master/src/com/android/mdw/demo/XMLParser.java",
+		"/C/Users/Windows/Downloads/guia5base-master/src/com/android/mdw/demo/Main.java",
+		"/C/Users/Windows/Downloads/guia1completo-master/guia1completo-master/bin/com/android/mdw/demo/XMLParser.class",
+		"/C/Users/Windows/Downloads/guia1completo-master/guia1completo-master/res/layout/main.xml",
+		"/C/Users/Windows/Documents/GitHub/curso-android-src/android-xml-sax/src/net/sgoliver/android/xml/Noticia.java",
+		"/C/Users/Windows/Downloads/guia1base-master/guia1base-master/AndroidManifest.xml",
+		"/C/Users/Windows/Downloads/guia1completo-master/guia1completo-master/AndroidManifest.xml",
+		"/C/Users/Windows/Documents/GitHub/curso-android-src/android-xml-sax/src/net/sgoliver/android/xml/RssHandler.java",
+		"/C/xampp/htdocs/app/crearleerJSON.php",
+		"/C/Users/Windows/Downloads/WebServiceJSON/selectAllJSON.php",
+		"/C/xampp/htdocs/app/tareas.xml",
+		"/C/xampp/htdocs/app/xml1.php",
+		"/C/xampp/htdocs/app/bbdd.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Eliminar",
+			"php",
+			"Enc",
+			"Encr",
+			"Encry",
+			"Encryp",
+			"Encrypt",
+			"EncryptMetadata",
+			"pas",
+			"sec",
+			"secu",
+			"pass",
+			"hol",
+			"hola",
+			"contra",
+			"contr",
+			"pass",
+			"intent",
+			"NewAppointmentActivity",
+			"intent",
+			"Delete",
+			"Edit",
+			"onCli",
+			"cur",
+			"sec",
+			"parser",
+			"XMLParser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "principal.php",
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}

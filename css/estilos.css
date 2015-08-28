@@ -1,0 +1,91 @@
+
+h1{
+ /*font-family: Times;*/
+ font-style: verdana; 
+ color: green; 
+ text-align  : center;
+ font-size: 30px;
+}
+
+h2{
+ font-family: Times;
+ /*font-style: ; */
+ color: green; 
+ text-align  : center;
+ font-size: 24px;
+}
+
+legend {
+   background: rgb(68,124,185);
+   border: 3px rgb(68,124,185);
+  
+   padding: 2px 2px 2px 2px;
+   
+   font-family: verdana;
+   font-size: 12pt;
+   color: #fff; 
+   /*font-size:14px;*/
+}
+
+#fieldset {
+   /*  
+   padding:10px 0 3px;
+   display:block;
+   font-family:arial,sans-serif;
+   */
+   border: 1px rgb(0,0,185);
+   margin:auto;
+   padding: 0em, 0em, 0.4em, 0.8em;
+   width: 300px;   
+}
+
+
+#fieldset1 {
+   /*  
+   padding:10px 0 3px;
+   display:block;
+   font-family:arial,sans-serif;
+   */
+   border: 1px solid green;
+   margin:auto;
+   padding: 0em, 0em, 0.4em, 0.8em;
+   width: 400px;   
+}
+
+#contenedor{
+	margin:auto;
+	margin-top: 10%;
+	
+	width:600px;
+	height:300px;
+	position:relative;
+	top:40px;
+	bottom:0px;
+	
+	background-color: rgba(148,242,255,0.1);
+	border-radius: 0px 0px;
+	box-shadow: 3px 5px 10px
+}
+
+#subcontenedor{
+   margin:auto;
+   
+   
+   width:500px;
+   height:250px;
+   position:relative;
+   top:10%;
+   bottom:0px;
+   
+   
+}
+
+
+
+
+
+
+
+
+
+
