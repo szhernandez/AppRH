@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="../js/mihoja.css" rel="stylesheet" type="text/css" />
+<title>Soy el Frame 1</title>
+</head>
+<body >
+
+
+
+
+<!--  ----------------------------------para MySQL---------------------------------------- -->
+<h1>Lenguaje MySQL </h1>
+<h2>¿Qu&eacute; es? </h2> 
+<p> MySQL es un sistema de gesti&oacute;n de bases de datos relacional, multihilo y multiusuario con m&aacute;s de seis millones de instalaciones. </p>  
+<h2> Caracteristicas </h2> </br> </br>
+<p> Inicialmente, MySQL carec&iacute;a de elementos considerados esenciales en las bases de datos relacionales, tales como integridad referencial y transacciones. A pesar de ello, atrajo a los desarrolladores de p&aacute;ginas web con contenido din&aacute;mico, justamente por su simplicidad. </br>
+Poco a poco los elementos de los que carec&iacute;a MySQL est&aacute;n siendo incorporados tanto por desarrollos internos, como por desarrolladores de software libre. Entre las caracter&iacute;sticas disponibles en las &uacute;ltimas versiones se puede destacar: </br>
+•	Amplio subconjunto del lenguaje SQL. Algunas extensiones son incluidas igualmente. </br>
+•	Disponibilidad en gran cantidad de plataformas y sistemas. </br>
+•	Posibilidad de selecci&oacute;n de mecanismos de almacenamiento que ofrecen diferentes velocidades de operaci&oacute;n, soporte f&iacute;sico, capacidad, distribuci&oacute;n geogr&aacute;fica, transacciones  </br>
+•	Transacciones y claves for&aacute;neas. </br>
+•	Conectividad segura. </br>
+•	Replicaci&oacute;n. </br>
+•	B&uacute;squeda e indexaci&oacute;n de campos de texto. 
+</p>
+
+
+<h2>ejemplos </h2>
+<p>A continuaci&oacute;n se presenta algunos comandos b&aacute;sicos para el manej de una  base de Datos en este lenguaje</p> 
+<pre class="codigo">
+
+Obtener informacion sobre la base de datos Mysql:
+•	show databases; – Listar todas las bases de datos.
+•	connect [database]; – Conectarse a esa base de datos.
+•	show tables; – Listar todas las tablas de una base de datos.
+•	show table status; – Muestra informacion sobre las tablas de la base de datos.
+•	describe [table]; – Muestra la estructura de una tabla de la base de datos.
+
+Manejo de bases de datos Mysql:
+•	drop table [table]; – Elimina la tabla, incluyendo registros y estructura.
+•	drop table if exists [table]; – Elimina la tabla de la base de datos, pero antes verifica que exista.
+•	truncate table [table]; – Elimina los registros, pero mantiene la esrtuctura de la tabla.
+•	rename table [table] to [nuevo nombre de tabla]; – Renombra una tabla de la base de datos.
+Algunos comandos utiles para cunsultas Mysql:
+•	select * from [table] limit [numero]; – Muestra los registros desde el 1 hasta [numero].
+Ej. select * from tabla limit 10; – Muestra los 10 primeros registros.
+select * from [table] limit [numero inicio],[numero]; – Muestra los registros desde el numero de inicio hasta numero inicio + numero.
+Ej. select * from tabla limit 11,10; – Muestra desde registro 11 hasta el 20.
+Bases de datos Mysql en consola:
+•	$ mysqladmin -u -p create – crear base de datos.
+•	$ mysqladmin -u -p drop – borrar la base de datos.
+•	$ mysqladmin -u root -p proc – listar procesos en ejecucion en el servidor de bases de datos Mysql.
+•	$ mysqladmin -u root -p -i 5 status – verificar status cada 5 segundos.
+•	$ mysqldump –opt -u -h -p > /path/to/file – Exportar base de datos a un archivo.
+•	$ mysqldump –opt -u -h –all-databases -p > /path/to/file – Exportar TODAS las bases de datos a un archivo.
+•	$ mysql -h -u -p < /path/to/file – Importar un archivo a la base de datos a mysql
+•	$ mysqlcheck -o -u root -p –all-databases – Optimizar las bases de datos mysql.
+Verificacion y reparacion de bases de datos erroneas:
+•	check table [table]; – Verificar la tabla.
+•	repair table [table]; – Reparar la tabla rota.
+
+</pre>
+
+<p>Si deseas m&aacute;s informaci&oacute;n consulta los siguientes sitios:</p>
+<a href="http://www.mysqlya.com.ar/">http://www.mysqlya.com.ar/</a> </br>
+<a href="http://mysql.conclase.net/">http://mysql.conclase.net/</a> </br>
+<a href="http://www.aulaclic.net/cursos/mostrar.php?id=37&texto=MySQL&clase=c">http://www.aulaclic.net/cursos/mostrar.php?id=37&texto=MySQL&clase=c</a> </br>
+
+
+
+
+</body>
+</html>

@@ -4,15 +4,15 @@
 <HTML>
 
 <HEAD>
-<TITLE>Mi primer sistema</TITLE>
+<TITLE>SIMPYP</TITLE>
 <span href="#" class="button" id="toggle-login">SIMPYP</span>
-<link href="css/estiloslogin.css" rel="stylesheet" type="text/css">
+<link href="styles/estiloslogin.css" rel="stylesheet" type="text/css">
 
 <div id="login">
   <div id="triangle"></div>
   <h1>Inicio de sesion</h1>
  
- <FORM name="formulario" METHOD="POST" ACTION="control.php">
+ <FORM name="formulario" METHOD="POST" ACTION="lib/ctl_acceso.php">
     <input name="usuario" type="text" placeholder="Usuario" />
     <input name="password" type="password" placeholder="Contrase&ntilde;a" />
     <input name="enviar" type="submit" value="Enviar" />
